@@ -1,0 +1,7 @@
+{
+  "name": "WanderLust AI - Itinerary Chat",
+  "description": "Upload your travel PDF itineraries and chat with them to get instant answers about your trip details.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
